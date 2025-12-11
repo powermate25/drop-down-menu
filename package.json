@@ -1,6 +1,6 @@
 {
   "name": "@pm25dev/drop-down-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple yet fully customizable drop-down menu.",
   "main": "index.js",
   "scripts": {

@@ -15,7 +15,7 @@ _Code example (module imported as ```menuDisplay```):_
 **html**
 ```html
 <menu class="menu1">
-    <div class="menu-title-btn">Button-3</div>
+    <div class="menu-title-btn">Button-1</div>
     <ul class="menu-list">
         <li>List item 1</li>
         <li>List item 2</li>
