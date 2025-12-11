@@ -1,0 +1,24 @@
+{
+  "name": "@pm25dev/drop-down-menu",
+  "version": "1.0.0",
+  "description": "A simple yet fully customizable drop-down menu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powermate25/drop-down-menu.git"
+  },
+  "keywords": [
+    "drop-down",
+    "menu",
+    "pm25"
+  ],
+  "author": "pm25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powermate25/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/powermate25/drop-down-menu#readme"
+}
