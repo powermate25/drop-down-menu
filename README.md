@@ -14,16 +14,36 @@ _Code example (module imported as ```menuDisplay```):_
 
 **html**
 ```html
-<menu class="menu1">
-    <div class="menu-title-btn">Button-1</div>
-    <ul class="menu-list">
-        <li>List item 1</li>
-        <li>List item 2</li>
-        <li>List item 3</li>
-    </ul>
-</menu>
+<nav>
+    <menu class="menuItem1">
+        <div class="title">Button-1</div>
+        <ul class="drop-down-list">
+            <li>List item 1</li>
+            <li>List item 2</li>
+            <li>List item 3</li>
+        </ul>
+    </menu>
+    <menu class="menuItem2">
+        <div class="title">Button-2</div>
+        <ul class="drop-down-list">
+            <li>List item 1</li>
+            <li>List item 2</li>
+            <li>List item 3</li>
+        </ul>
+    </menu>
+    <menu class="menuItem3">
+        <div class="title">Button-3</div>
+        <ul class="drop-down-list">
+            <li>List item 1</li>
+            <li>List item 2</li>
+            <li>List item 3</li>
+        </ul>
+    </menu>
+</nav>
 ```
 **javascript**
 ```js
-menuDisplay(".menu1", ".menu-title-btn", "ul")
+menuDisplay(".menuItem1", ".title", "ul")
+menuDisplay(".menuItem2", ".title", "ul")
+menuDisplay(".menuItem3", ".title", "ul")
 ```
